@@ -1,7 +1,7 @@
 package com.myvendor.myapp.dependencyinjection.module;
 
-import com.maxvandervelde.android.logger.ConsoleLogger;
-import com.maxvandervelde.android.standard.dependencyinjection.module.StandardApplicationModule;
+import com.inkapplications.android.logger.ConsoleLogger;
+import com.inkapplications.android.standard.dependencyinjection.module.StandardApplicationModule;
 import com.myvendor.myapp.BuildConfig;
 import com.myvendor.myapp.Application;
 import dagger.Module;

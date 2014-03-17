@@ -1,6 +1,6 @@
 package com.myvendor.myapp.activity;
 
-import com.maxvandervelde.android.standard.activity.BaseActivity;
+import com.inkapplications.android.standard.activity.BaseActivity;
 import com.myvendor.myapp.dependencyinjection.module.ActivityModule;
 
 import java.util.List;

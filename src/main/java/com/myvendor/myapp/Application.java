@@ -1,6 +1,6 @@
 package com.myvendor.myapp;
 
-import com.maxvandervelde.android.standard.BaseApplication;
+import com.inkapplications.android.standard.BaseApplication;
 import com.myvendor.myapp.dependencyinjection.module.ApplicationModule;
 
 import java.util.List;

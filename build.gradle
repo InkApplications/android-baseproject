@@ -11,9 +11,7 @@ apply plugin: 'android'
 
 android {
     defaultConfig {
-        // Application Version code, Update after a release!
         versionCode 1
-
         minSdkVersion 16
         targetSdkVersion 19
     }
@@ -38,5 +36,5 @@ dependencies {
     compile 'junit:junit:4.11'
     compile 'org.easytesting:fest-assert:1.4'
     compile 'joda-time:joda-time:2.3'
-    compile 'com.maxvandervelde:android-standard:1.0.0-SNAPSHOT'
+    compile 'com.inkapplications:android-standard:1.0.0-SNAPSHOT'
 }
