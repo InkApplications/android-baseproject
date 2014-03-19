@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="primary">#ff0099cc</color>
-    <color name="primary-highlight">#ff33b5e5</color>
+    <color name="primary_highlight">#ff33b5e5</color>
     <color name="danger">#ffcc0000</color>
-    <color name="danger-highlight">#ffff4444</color>
+    <color name="danger_highlight">#ffff4444</color>
     <color name="warning">#ffff8800</color>
-    <color name="warning-highlight">#ffffbb33</color>
+    <color name="warning_highlight">#ffffbb33</color>
     <color name="success">#ff669900</color>
-    <color name="success-highlight">#ff99cc00</color>
+    <color name="success_highlight">#ff99cc00</color>
     <color name="secondary">#ff9933cc</color>
-    <color name="secondary-highlight">#ffaa66cc</color>
+    <color name="secondary_highlight">#ffaa66cc</color>
 
     <color name="foreground">#ff000000</color>
     <color name="foreground_inverse">#ffffffff</color>
